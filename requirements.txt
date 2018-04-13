@@ -1,0 +1,5 @@
+boto3>=1.4.5
+configparser
+PyYAML
+tabulate
+win-unicode-console
